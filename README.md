@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Debugging%20life%20👨‍💻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Debugging%20life%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 ## Hey Welcome ! I'm am  Saim Ahmed. 👋
