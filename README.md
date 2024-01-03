@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Debugging%20life%20🤹&width=1400&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Debugging%20life%20👨‍💻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 ## Hey Welcome ! I'm am  Saim Ahmed. 👋
@@ -6,7 +6,7 @@
 
 <br>
 
-###  About Me :)
+### 💡 About Me :)
 <br>
 
 🎓 CSIT Undergrad from NED University.<br>📱 Flutter Mobile App Developer with 2 years of learning experience.<br>🌐 Currently exploring the world of Blockchain technology.<br>🔍 Dedicated about continuous learning and staying updated with the latest tech. <br><br>
