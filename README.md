@@ -3,7 +3,8 @@
 
 ## Hey Welcome ! I'm am  Saim Ahmed. 👋
 ### Flutter Developer | CSIT Undergrad
-devsaim.netlify.app
+
+<a href="https://devsaim.netlify.app" target="_blank">
 
 <br>
 
