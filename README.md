@@ -66,5 +66,5 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=Saim22Ahmed&icon=9&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?Saim22Ahmed&style=flat-square)
 
